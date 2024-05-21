@@ -1,2 +1,1 @@
-# Fokus-js
-Feito a parte de JavaScript
+Fiz a parte de JavaScript deste site.
